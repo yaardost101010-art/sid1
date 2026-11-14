@@ -1,12 +1,12 @@
 export const CONFIG = {
-  CLIENT_ID: "MERCY",
-  PIXEL_ID: "1919113896165908",
-  BACKUP_LINK: "https://t.me/+E4v-F28uSWA1NDE9",
+  CLIENT_ID: "SIDDHARTH",
+  PIXEL_ID: "2062623597778821",
+  BACKUP_LINK: "https://t.me/+_ty4TozfGgJkOTQ1",
   HELPER_URL: "https://app.kapitrack.site",
 
-  CHANNEL_NAME: "MERCY",
+  CHANNEL_NAME: "SIDDHARTH",
   CHANNEL_TAGLINE: "",
-  AVATAR_IMAGE_URL: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe-z7i_V3vwKXSRUfVW-lIWWokznKQkvchlyMajYfrZWREfT0mB5zecWkgl8LsWK_tceziE-F7KDO7K4LwJfGAvaLoP9JRc1DOy0mTBwgfkMo2Xp9ZxYOT7pVmqmeDTAAWjyjB8boHXB_QHRmscShb8KUbXDEnc29qrZkNrCBogqh-N70IgkBgH6_umdpy/s320/6325632717386618898_120.jpg",
+  AVATAR_IMAGE_URL: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLHRWnX-e464umuMJvsiBYN3bsbbhonsULfH5za8GKILjSjZWNrtQfnx-zWcpCmM5tF2Z88va1r_VHhG3s_RxCyg4ojabGLPmXi-B0YjltkX1AVfO2zYf6CZqwxIDtK4rbVCHyt3vZuVvU2ILVy5L6AS5cRbTWrIeKBRiHrey0kllRvfOu3kzOHol1C0wb/s320/6325632717386618784_120.jpg",
   FOOTER_ICON_URL: "avatar.jpg",
   FAVICON_URL: "avatar.jpg",
   JOIN_BUTTON_TEXT: "Join Now",
