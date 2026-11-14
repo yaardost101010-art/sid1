@@ -1,12 +1,12 @@
 export const CONFIG = {
-  CLIENT_ID: "CLIENT_ID",
-  PIXEL_ID: "000000000000000",
-  BACKUP_LINK: "https://t.me/+bnbzc3Kn0x44ZTc1",
+  CLIENT_ID: "SIDDHARTH",
+  PIXEL_ID: "2062623597778821",
+  BACKUP_LINK: "https://t.me/+_ty4TozfGgJkOTQ1",
   HELPER_URL: "https://app.kapitrack.site",
 
-  CHANNEL_NAME: "YOUR_TEXT",
-  CHANNEL_TAGLINE: "OFFICIAL TELEGRAM CHANNEL",
-  AVATAR_IMAGE_URL: "avatar.jpg",
+  CHANNEL_NAME: "SIDDHARTH",
+  CHANNEL_TAGLINE: "",
+  AVATAR_IMAGE_URL: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLHRWnX-e464umuMJvsiBYN3bsbbhonsULfH5za8GKILjSjZWNrtQfnx-zWcpCmM5tF2Z88va1r_VHhG3s_RxCyg4ojabGLPmXi-B0YjltkX1AVfO2zYf6CZqwxIDtK4rbVCHyt3vZuVvU2ILVy5L6AS5cRbTWrIeKBRiHrey0kllRvfOu3kzOHol1C0wb/s320/6325632717386618784_120.jpg",
   FOOTER_ICON_URL: "avatar.jpg",
   FAVICON_URL: "avatar.jpg",
   JOIN_BUTTON_TEXT: "Join Now",
